@@ -1,0 +1,49 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:Arial;
+	font-size:16px;
+	background-image:url(../images/sample.png);	
+}
+
+#wrapper{
+	margin:0 auto;
+	max-width:1024px;
+}
+
+nav{
+	margin:0 auto;
+	max-width:1020px;
+	height:286px;
+	background-image:url(../images/header.png);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+
+
+#des{
+	background-color:red;
+	vertical-align:top;
+	width:100%;
+	max-height:612px;
+	
+}
+
+figure img{
+	width:50%;
+}
+
+#uno{
+	background:#09C;
+	width:50%;
+	
+}
+
+
+
+
+
+
+
+	

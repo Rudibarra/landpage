@@ -1,0 +1,72 @@
+*{margin:0;
+padding:0;}
+
+article{
+	float:left;
+	width:45%;
+	box-sizing:content-box;
+	padding-right:5%;
+	
+	
+	
+}
+
+
+header{
+	background:red;
+	padding:1em;
+	margin:0 auto;	
+	width:1000px;
+	box-sizing:content-box;	
+	margin-bottom:0.5em;
+	
+}
+
+body{
+	background:#C3E5F9;
+	font-size:16px;
+	font-family:arial;
+	color:white;
+	text-shadow:1px 1px 0 black;
+}
+
+section{
+	
+	padding:1em;
+	background:#12A890;
+	margin:auto;
+	margin-bottom:0.5em;
+	width:1000px;
+	overflow:hidden;
+	box-sizing:content-box;	
+	
+}
+
+
+.fila1{
+
+	
+}
+
+.fila2{
+	
+	
+
+	
+}
+
+
+@media screen and (max-width:1000px){
+	
+section{
+		width:100%;
+	
+}
+}
+
+
+@media screen and (max-width:700px){
+	article{
+		width:100%;
+	}
+}
